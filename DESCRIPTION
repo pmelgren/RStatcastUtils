@@ -1,0 +1,11 @@
+Package: RStatcastUtils
+Title: Utility Functions for Working with Statcast Data in R
+Version: 0.1.000
+Authors@R: 
+    person("Pete","Melgren",role = c("aut", "cre"),email = "pmelgren@gmail.com")
+Description: RSTatcastUtils contains functions to work with the statcast data that is publicly available on Baseball Savant ( https://baseballsavant.mlb.com/statcast_leaderboard ).
+License: None
+Depends: R (>= 3.5.0)
+LazyData: true
+RoxygenNote: 6.1.1
+Encoding: UTF-8
